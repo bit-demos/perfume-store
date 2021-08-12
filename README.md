@@ -6,7 +6,8 @@ Shoe Store is made up of components from the base ui scope and the ecommerce sco
 
 Explore components for the [perfume-store](https://bit.dev/learn-bit-react/perfume-store)
 
-<img width="1785" alt="CleanShot 2021-08-10 at 20 34 06@2x" src="https://user-images.githubusercontent.com/13063165/128926384-554ebf1a-f80a-48e5-bef9-b4c3bc835149.png">
+<img width="1790" alt="CleanShot 2021-08-13 at 00 17 22@2x" src="https://user-images.githubusercontent.com/13063165/129277097-1f8d431c-b697-4d6b-ad16-bcb05dd59e2e.png">
+
 
 If you would like to import(clone) the project to take it for a test run make sure you have [bit installed](https://harmony-docs.bit.dev/getting-started/installing-bit).
 
